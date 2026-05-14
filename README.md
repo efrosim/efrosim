@@ -7,7 +7,6 @@
 
 - 📫 How to reach me: [noskoff.sasha2018@yandex.ru](mailto:noskoff.sasha2018@yandex.ru)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
