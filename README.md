@@ -1,20 +1,50 @@
-<h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">An enthusiastic student developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efrosim" alt="efrosim" /></a> </p>
+<h1 align="center">Alexander Noskov</h1>
 
 <p align="center">
-  🔭 I’m currently working on <b>WTH.SCPSL</b>
+  <b>Software Developer</b> · Backend · Game Development
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:noskoff.sasha2018@yandex.ru">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/efrosim">
+    <img src="https://img.shields.io/badge/GitHub-efrosim-181717?style=flat-square&logo=github" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=efrosim" alt="GitHub Streak" />
-</div>
+---
 
-<div align="center">
-  <h3>📫 How to reach me:</h3>
-  <a href="mailto:noskoff.sasha2018@yandex.ru"><b>noskoff.sasha2018@yandex.ru</b></a>
-</div>
+### 👨‍💻 About Me
+
+- 🔭 Currently working on **WTH.SCPSL**
+- 🎮 Interested in game development and performance optimization
+- ⚙️ Working with backend systems, databases and infrastructure
+- 📚 Always exploring new technologies and approaches
+
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,py" />
+</p>
+
+**Databases & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux,nginx,git" />
+</p>
+
+**Game Development & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,android" />
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>
